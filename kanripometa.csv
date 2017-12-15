@@ -1,6 +1,6 @@
 Field,Value
 DataURL,https://raw.githubusercontent.com/kanripo/textrefmetadata/master/kanripo.csv
-ResourceTemplate,http://kanripo.org/edition/{edition_id}/{primary_id}/
+ResourceTemplate,http://kanripo.org/ed/{primary_id}/
 ShortName,kanripo
 LongName,Kanseki Repository
 MetaURL,https://raw.githubusercontent.com/kanripo/textrefmetadata/master/kanripometa.csv
